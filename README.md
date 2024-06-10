@@ -1,1 +1,4 @@
-This is a game I made to prank my friend. I will make more versions later.
+It's an official game that works!
+More releases to come. Please submit Pull Requests for suggestions and features.
+
+ONLY DOWNLOAD VERSIONS! NOT THE FILES ABOVE!
